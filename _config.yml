@@ -1,6 +1,6 @@
-title: JH # The title of the blog
+title: JH Kim Wiki Blog # The title of the blog
 author: Jaehoon Kim # Your name 
-email: your-email@domain.com # your email shown in the footer
+email: jaehoonkim.dev@gmail.com # your email shown in the footer
 url: https://jaehoonkimm.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
@@ -19,13 +19,13 @@ moving:
   # generate social links in about page.
   social_links:
     # twitter: 
-    github:  huangyz0918
+    github:  jaehoonkimm
     rss: RSS
     # dribbble: 
-    facebook: huangyz0918
+    # facebook:
     # flickr:   
     # instagram: 
-    linkedin: yizheng-huang
+    # linkedin:
     # pinterest: 
     # youtube: 
     # youtube_channel: 
@@ -43,7 +43,7 @@ moving:
     #   instance: 
 
 # Build settings
-theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+theme: Hacker # note, please use huangyz0918/moving if you want to publish to Github Pages.
 
 plugins:
   - jekyll-feed
