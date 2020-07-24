@@ -1,12 +1,9 @@
-title: Your awesome title
+title: JH Kim Dev Blog
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: jaehoonkimm
+  email: jaehoonkim.dev@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+    개발 일지 및 개발 관련 기록
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -16,8 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitte:
+    github:  jaehoonkimm
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
