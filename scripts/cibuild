@@ -1,6 +1,8 @@
+#!/bin/sh
+
 set -e
 
-bash scripts/build.sh
+script/build
 
 if test -e "./_site/index.html";then
   echo "It builds!"
@@ -10,4 +12,4 @@ else
   exit 1
 fi
 
-gem build moving.gemspec
+gem build minima.gemspec
